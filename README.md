@@ -12,8 +12,12 @@
 2. Node JS
 
 ## How to run
-1. npm install
-2. npm start
+1. Go to folder Soal2/product/server
+2. run "npm install"
+3. run "npm start"
+4. Go to folder Soal2/product/client
+5. run "npm install"
+6. run "npm start"
 
 # Soal 3
 ## Requirements
