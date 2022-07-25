@@ -1,0 +1,71 @@
+.App {
+  text-align: center;
+  
+}
+
+.add-product {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin: 20px;
+  align-items: flex-start;
+}
+
+.add-product input {
+  margin-left: 0px;
+}
+
+.add-product button {
+  width: 90%;
+  margin: 12px auto;
+  margin-bottom: 0px;
+  height: 25px;
+}
+
+button {
+  height: 22px;
+  font-size: 15px;
+  margin: 5px;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+.product-show {
+  border: 1px solid black;
+  margin: 10px;
+  margin-left: 0px;
+  padding: 10px;
+}
+
+.productDetail {
+  margin-left: 20px;
+  text-align: left;
+}
+
+.productUpdateInput input {
+  margin-left: 0px;
+}
+
+.productUpdateButton button {
+  margin-left: 0px;
+}
+
+.products-show {
+  margin-left: 20px;
+  text-align: left;
+}
+
+.products-show button {
+  margin-left: 0px;
+}
+
+input {
+  min-width: 200px;
+  width: 40%;
+  max-width: 350px;
+  height: 20px;
+  font-size: 18px;
+  margin: 5px;
+}
